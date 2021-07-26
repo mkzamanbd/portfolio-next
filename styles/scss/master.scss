@@ -78,7 +78,7 @@ body{
 		border-radius: 0;
 		box-shadow: rgba(0,0,0,0.3) 0px 5px 15px;
 		margin-top: 25%;
-		display: block;		
+		display: block;
 		transform: translate(120px);
 		filter: grayscale(100%);
 		border-radius: 24px;
@@ -124,16 +124,16 @@ body{
 			padding: 24px;
 			box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
 			text-align: center;
-			
+
 			.block__img{
 				height: 58px;
 			}
 			span{
 				padding-top: 12px;
-				font-size: 15px;					
+				font-size: 15px;
 			}
-		}			
-		
+		}
+
 		.site__highlight{
 			position: relative;
 			.highlighted__text{
@@ -149,7 +149,7 @@ body{
 	}
 
 
-// Portfolio section	
+// Portfolio section
 .portfolio__area{
 	.carousel{
 		.carousel-item{
@@ -170,7 +170,7 @@ body{
 				left: 0;
 				bottom: 24px;
 				max-height: 380px;
-				margin-left: 600px;				
+				margin-left: 600px;
 				padding: 21px;
 				overflow: hidden;
 				box-shadow: 0 5px 15px rgba(0,0,0,0.05);
@@ -206,8 +206,9 @@ body{
 			}
 		}
 
-		.carousel-control-next, 
+		.carousel-control-next,
 		.carousel-control-prev{
+            color: black;
 			width: auto;
 			top: 100%;
 			margin-top: -48px;
@@ -330,7 +331,7 @@ footer{
 		&::after{
 			margin-top: -30%;
 			margin-left: -30%;
-			max-width: 120%;			
+			max-width: 120%;
 			height: 65vh;
 			min-height: 0;
 			border-radius: 48px;
@@ -406,7 +407,7 @@ footer{
 			}
 
 
-			.carousel-control-next, 
+			.carousel-control-next,
 			.carousel-control-prev{
 				width: auto;
 				top: 100%;

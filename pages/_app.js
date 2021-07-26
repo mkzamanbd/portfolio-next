@@ -1,6 +1,8 @@
 //import bootstrap and master scss
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'font-awesome/css/font-awesome.min.css';
 import '../styles/scss/master.scss'
+import '../styles/global.scss'
 
 import favicon from "../public/favicon.png";
 import MyImage from '../public/images/zaman.png'
