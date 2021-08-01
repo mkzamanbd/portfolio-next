@@ -45,7 +45,7 @@ export default function Portfolio() {
                                         requests.</p>
                                     <ul className="pl-0">
                                         <li className="d-inline-block">-Vue JS</li>
-                                        <li className="d-inline-block">-Bootstrap4</li>
+                                        <li className="d-inline-block">-Bootstrap</li>
                                         <li className="d-inline-block">-Laravel</li>
                                     </ul>
                                     <a className="ext__link" href="http://pizzahouseusa.com">Website Link</a>
@@ -77,7 +77,7 @@ export default function Portfolio() {
                                         products.</p>
                                     <ul className="pl-0">
                                         <li className="d-inline-block">-HTML5</li>
-                                        <li className="d-inline-block">-Boostrap 4</li>
+                                        <li className="d-inline-block">-Bootstrap 4</li>
                                         <li className="d-inline-block">-PHP</li>
                                         <li className="d-inline-block">-MySQL</li>
                                     </ul>
@@ -93,7 +93,7 @@ export default function Portfolio() {
                                         research, custom application, android apps and digital marketing</p>
                                     <ul className="pl-0">
                                         <li className="d-inline-block">-HTML5</li>
-                                        <li className="d-inline-block">-Boostrap 4</li>
+                                        <li className="d-inline-block">-Bootstrap 4</li>
                                         <li className="d-inline-block">-PHP</li>
                                         <li className="d-inline-block">-MySQL</li>
                                     </ul>
